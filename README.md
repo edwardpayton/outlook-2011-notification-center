@@ -28,7 +28,7 @@ Message > Rules > Edit Rules...
 ```
 
   1. On the left, select the email account type.  
-       *Depending on your email account(s), or if using Exchange, your company's server(s), your selection here will vary depending on your configuration.)*
+       *(Depending on your email account(s), or if using Exchange, your company's server(s), your selection here will vary depending on your configuration.)*
   2. Click the <kbd>+</kbd> on the bottom right to add a new rule.  
   3. Give the new rule a name (e.g. "Notification Center").
   4. Under the heading "When a new message arrives:" 
