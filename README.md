@@ -4,7 +4,7 @@ Since I'm in the corporate world now, my Mac is one out of probably ten Macs wor
 
 My employer's email, like many others in corporate America, runs off an Exchange Server. Since our version of Exchange isn't supported by Office 365 (not to mention I don't have an Office 365 account) I am left with running Outlook 2011 for Mac rather than the freshly-released Outlook 2016.
 
-The built-in notifications in Outlook 2011 for Mac are well, basically ugly and you cannot force them persist on screen, so I've designed a way to incorporate Outlook 2011 notifications into OSX's Notification Center (with a few caveats).
+The built-in notifications in Outlook 2011 for Mac are well, basically ugly, and you cannot force them to persist on screen, so I've designed a way to incorporate Outlook 2011 notifications into OSX's Notification Center (with a few caveats).
 
 ## Setup
 #### 1. Download
